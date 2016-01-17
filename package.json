@@ -1,0 +1,31 @@
+{
+  "name": "generator-ecma-six",
+  "version": "0.0.1",
+  "description": "A basic es2015(Ecmascript 6) scaffolding with browserify and gulp.",
+  "homepage": "https://github.com/iranreyes/generator-ecma-six",
+  "author": {
+    "name": "Iran Reyes Fleitas",
+    "email": "iranreyesfleitas@gmail.com",
+    "url": "iranreyes.com"
+  },
+  "files": [
+    "generators"
+  ],
+  "main": "generators/index.js",
+  "repository": "iranreyes/generator-ecma-six",
+  "keywords": [
+    "es6",
+    "gulp",
+    "browserify",
+    "babel",
+    "es2015",
+    "basic",
+    "yeoman-generator"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^1.1.1",
+    "yeoman-generator": "^0.22.4",
+    "yosay": "^1.1.0"
+  }
+}
