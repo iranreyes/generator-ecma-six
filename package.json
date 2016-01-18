@@ -1,6 +1,6 @@
 {
   "name": "generator-ecma-six",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A basic es2015(Ecmascript 6) scaffolding with browserify and gulp.",
   "homepage": "https://github.com/iranreyes/generator-ecma-six",
   "author": {
